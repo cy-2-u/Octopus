@@ -1,0 +1,8 @@
+name = "octopus-relay"
+main = "worker.js"
+compatibility_date = "2026-06-02"
+
+[[kv_namespaces]]
+binding = "AI_PROXY_DATA"
+id = "replace_with_your_kv_namespace_id"
+
