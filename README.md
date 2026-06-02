@@ -1,6 +1,6 @@
 # Octopus Relay - Worker 部署版
 
-这是 Cloudflare Workers 部署版本。目录的 `_worker.js` 更适合 Cloudflare Pages 上传；目录里的 `worker.js` 可以直接用于 Cloudflare Workers。
+这是 Cloudflare Workers 部署版本。目录的 `_worker.js` 更适合 Cloudflare Pages 上传； `worker.js` 可以直接用于 Cloudflare Workers。
 
 ## 界面预览
 
